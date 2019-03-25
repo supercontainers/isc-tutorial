@@ -23,6 +23,19 @@ Within just the past few years, the use of containers has revolutionized the way
 
 This hands-on tutorial looks to train users on the usability of containers on HPC resources. Specifically, the tutorial will walk through the processes of creating, deploying, and running Singularity containers on a Linux cluster. We will provide a detailed background on Linux containers, along with introductory hands-on experience building and running containers on a cluster. Furthermore, the tutorial will provide more advanced information on how to run MPI-based HPC applications as well as cutting-edge machine learning frameworks. Users will leave the tutorial with a solid foundational understanding of how to utilize containers with HPC resources through Singularity, as well as an in-depth knowledge to deploy custom containers on their own resources. 
 
+## Prerequisites:
+
+This is hands-on tutorial. Participants should bring a laptop and load or pre-install a terminal and/or ssh client in advance to make best use of time during the tutorial.  We will be providing test user accounts to both pre-configured EC2 instances as well as the Cori Supercomputer at NERSC.  
+
+Users can also install Docker and Singularity prior to attending the tutorial session. Here, it may be beneficial to create a docker account in advance at https://cloud.docker.com/. This account will be needed to create images on docker cloud and dockerhub.
+
+[Install Singularity on Linux](https://www.sylabs.io/guides/3.0/user-guide/quick_start.html#quick-installation-steps)
+
+[Install Singualrity on Mac](https://repo.sylabs.io/desktop/) (Alpha)
+
+[Install Docker for Desktop](https://www.docker.com/products/docker-desktop)
+
+
 
 ## Schedule:
 
