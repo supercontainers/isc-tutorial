@@ -1,15 +1,20 @@
 
-# ECP Supercontainers Container Tutorial: Getting Started with Containers on HPC
+# Getting Started with Containers on HPC
+## ECP Supercontainers Tutorial Session
 
 <img src="images/ecp.jpg" width="250">
 
 ## Details:
 Half-day Tutorial Session
-International Supercomputing Conference 2019 (ISC19')
-June 16th, 2019
-Frankfurt, DE
+
+Venue: International Supercomputing Conference 2019 (ISC19')
+
+Date: June 16th, 2019
+
+Location: Frankfurt, DE
 
 Topic Area: Programming Models & Systems Software
+
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
 ## Abstract: 
