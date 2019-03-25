@@ -26,19 +26,19 @@ This hands-on tutorial looks to train users on the usability of containers on HP
 
 ## Schedule:
 
-0:01 - 0:30 Introduction to Containers in HPC (Younge/Canon)
+0:01 - 0:30 [Introduction to Containers in HPC](slides/isc19_intro_to_containers_ajy.pptx) (Younge/Canon)
 
-0:30 - 1:00 How to build your first Docker container (Canon)
+0:30 - 1:00 [How to build your first Docker container](https://github.com/NERSC/Shifter-Tutorial/blob/master/01-hands-on.md) (Canon)
 
-1:00 - 1:30 How to deploy a container on a supercomputer (Canon)
+1:00 - 1:30 [How to deploy a container on a supercomputer with Shifter](https://github.com/NERSC/Shifter-Tutorial/blob/master/03-hands-on.md)(Canon)
 
 1:30 - 2:00 -- Break --
 
-2:00 - 2:30 How to build a Singularity container image (Arango)
+2:00 - 2:30 [How to build a Singularity container image](https://github.com/ArangoGutierrez/Singularity-tutorial/blob/master/BUILD_RUN.md)(Arango)
 
-2:30 - 3:00 Running Singularity on a supercomputer & adv features (Arango)
+2:30 - 3:00 [Running Singularity on a supercomputer and advanced features](https://github.com/ArangoGutierrez/Singularity-tutorial/blob/master/CLOUD_SERVICES.md)(Arango)
 
-3:00 - 4:00 Example: Running an HPC app on the E4S container (Shende)
+3:00 - 4:00 [Example: Running an HPC app on the E4S container](slides/E4S_PROTEAS_AHM_Mar19.pptx) (Shende)
 
 
 
