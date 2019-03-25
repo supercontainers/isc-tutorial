@@ -1,5 +1,5 @@
 
-#ECP Supercontainers Container Tutorial: Getting Started with Containers on HPC
+# ECP Supercontainers Container Tutorial: Getting Started with Containers on HPC
 
 <img src="images/ecp.jpg" width="250">
 
@@ -21,13 +21,19 @@ This hands-on tutorial looks to train users on the usability of containers on HP
 
 ## Schedule:
 
-+0:01 - 0:30 Introduction to Containers in HPC (Younge/Canon)
-+0:30 - 1:00 How to build your first Docker container (Canon)
-+1:00 - 1:30 How to deploy a container on a supercomputer (Canon)
-+1:30 - 2:00 -- Break --
-+2:00 - 2:30 How to build a Singularity container image (Arango)
-+2:30 - 3:00 Running Singularity on a supercomputer & adv features (Arango)
-+3:00 - 4:00 Example: Running an HPC app on the E4S container (Shende)
+0:01 - 0:30 Introduction to Containers in HPC (Younge/Canon)
+
+0:30 - 1:00 How to build your first Docker container (Canon)
+
+1:00 - 1:30 How to deploy a container on a supercomputer (Canon)
+
+1:30 - 2:00 -- Break --
+
+2:00 - 2:30 How to build a Singularity container image (Arango)
+
+2:30 - 3:00 Running Singularity on a supercomputer & adv features (Arango)
+
+3:00 - 4:00 Example: Running an HPC app on the E4S container (Shende)
 
 
 
