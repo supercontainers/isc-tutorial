@@ -45,9 +45,9 @@ Users can also install Docker and Singularity prior to attending the tutorial se
 
 14:01 - 14:30 [Introduction to Containers in HPC](slides/isc19_intro_to_containers_ajy.pptx) (Younge)
 
-14:30 - 15:00 [How to build your first Docker container](https://github.com/NERSC/Shifter-Tutorial/blob/master/01-hands-on.md) (Canon)
+14:30 - 15:00 [How to build your first Docker container](/01-hands-on.md) (Canon)
 
-15:00 - 15:30 [How to deploy a container on a supercomputer with Shifter](https://github.com/NERSC/Shifter-Tutorial/blob/master/03-hands-on.md)(Canon)
+15:00 - 15:30 [How to deploy a container on a supercomputer with Shifter](/03-hands-on.md)(Canon)
 
 15:30 - 16:00 -- Break --
 
