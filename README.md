@@ -11,7 +11,11 @@ Venue: International Supercomputing Conference 2019 (ISC19')
 
 Date: June 16th, 2019
 
+Room: Monte Rosa 1,2
+
 Location: Frankfurt, DE
+
+Link: [ISC19 Website](https://2019.isc-program.com/presentation/?id=tut148&sess=sess127)
 
 Topic Area: Programming Models & Systems Software
 
