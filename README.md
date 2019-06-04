@@ -31,6 +31,13 @@ This hands-on tutorial looks to train users on the usability of containers on HP
 
 This is hands-on tutorial. Participants should bring a laptop and load or pre-install a terminal and/or ssh client in advance to make best use of time during the tutorial.  We will be providing test user accounts to both pre-configured EC2 instances as well as the Cori Supercomputer at NERSC.  
 
+<img src="images/ecp.jpg" width="250">
+
+This tutorial is supported by the Amazon AWS Machine Learning Research Awards. EC2 images and temporary login credentials will be distributed onsite at the tutorial.
+
+
+#### Optional Prerequisites: 
+
 Users can also install Docker and Singularity prior to attending the tutorial session. Here, it may be beneficial to create a docker account in advance at https://cloud.docker.com/. This account will be needed to create images on docker cloud and dockerhub.
 
 [Install Singularity on Linux](https://www.sylabs.io/guides/3.0/user-guide/quick_start.html#quick-installation-steps)
