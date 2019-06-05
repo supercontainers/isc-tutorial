@@ -57,7 +57,7 @@ Users can also install Docker and Singularity prior to attending the tutorial se
 
 15:30 - 16:00 -- Break --
 
-16:00 - 16:30 [How to build a Singularity container image](/03-hands-on.mdd)(Arango)
+16:00 - 16:30 [How to build a Singularity container image](/03-hands-on.md)(Arango)
 
 16:30 - 17:00 [Running Singularity on a supercomputer and advanced features](/04-hands-on.md)(Arango)
 
