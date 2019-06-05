@@ -5,15 +5,15 @@
 Pull a public image such as ubuntu or centos using the docker pull command.  If a tag is not specified, docker will default to "latest".
 
 ```bash
-$ docker pull ubuntu:14.04
+docker pull ubuntu:14.04
 ```
 
 Now run the image using the docker run command.  Use the "-it" option to get an interactive terminal during the run.
 
 ```bash
-$ docker run -it ubuntu:14.04
-$ whoami
-$ lsb_release -a
+docker run -it ubuntu:14.04
+whoami
+lsb_release -a
 ```
 
 ## Creating and building a Dockerfile
@@ -24,20 +24,20 @@ A Dockerfile has many options.  We will focus on a few basic ones (FROM, LABEL, 
 
 Start by making an empty directory.
 
-```
+```bash
 mkdir mydockerimage
 ```
 
 Create a simple shell script called `script` in your local directory using your favorite editor.
 
-```
+```bash
 #!/bin/bash
 echo "Hello World! -- Me"
 ```
 
 Now create a file called `Dockerfile` in the same directory like the following.  Use your own name and e-mail for the maintainer label.
 
-```
+```bash
 FROM ubuntu:14.04
 LABEL maintainer="patsmith patsmith@patsmith.org"
 
@@ -98,7 +98,9 @@ int main(int argc, char** argv) {
     return 0;
 }
 ```
-Hints: 
+
+Hints:
+
 * You can start with the image "nersc/ubuntu-mpi:14.04". It already has MPI installed.
 * You compile with "mpicc helloworld.c -o /app/hello"
 
@@ -107,6 +109,7 @@ Hints:
   <p>
 
 Dockerfile:
+
 ```bash
 # MPI Dockerfile
 FROM nersc/ubuntu-mpi:14.04
@@ -146,4 +149,3 @@ hello from 6 of 10 on 982d980864e5
 hello from 1 of 10 on 982d980864e5
 
 </p></details>
-
