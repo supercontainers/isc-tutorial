@@ -23,14 +23,13 @@ It should look something like this:
 
 ```bash
 BootStrap: library
-From: ubuntu:latest
+From: ubuntu:16.04
 
 %runscript
     echo "This is what happens when you run the container..."
 
 %post
     echo "Hello from inside the container"
-    sed -i 's/$/ universe/' /etc/apt/sources.list
     apt-get -y install vim
 
 ```
@@ -64,11 +63,11 @@ Depending on the environment on your host system you may see your prompt change.
 ```bash
 Singularity lolcow:~> cat /etc/os-release
 NAME="Ubuntu"
-VERSION="14.04, Trusty Tahr"
+VERSION="16.04, Xenial"
 ID=ubuntu
 ID_LIKE=debian
-PRETTY_NAME="Ubuntu 14.04 LTS"
-VERSION_ID="14.04"
+PRETTY_NAME="Ubuntu 16.04 LTS"
+VERSION_ID="16.04"
 HOME_URL="http://www.ubuntu.com/"
 SUPPORT_URL="http://help.ubuntu.com/"
 BUG_REPORT_URL="http://bugs.launchpad.net/ubuntu/"
@@ -187,7 +186,7 @@ Here is what our updated definition file should look like.
 
 ```bash
 BootStrap: library
-From: ubuntu:latest
+From: ubuntu:16.04
 
 %post
     apt-get -y update
