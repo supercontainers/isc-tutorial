@@ -41,16 +41,16 @@ This tutorial is supported by the Amazon AWS Machine Learning Research Awards. E
 
 Users can also install Docker and Singularity prior to attending the tutorial session. Here, it may be beneficial to create a docker account in advance at https://cloud.docker.com/. This account will be needed to create images on docker cloud and dockerhub.
 
-## Questions:
-
-You can ask questions verbally or with this [Google Doc](https://docs.google.com/document/d/11gMZ-T7iA5XiRWPLYIqX7Gqv7RMb-NF9kzGYHrnOi04/edit?usp=sharing).
-Please append your question below the others in the document.
-
 [Install Singularity on Linux](https://www.sylabs.io/guides/3.2/user-guide/quick_start.html#quick-installation-steps)
 
 [Install Singualrity on Mac](https://repo.sylabs.io/desktop/) (Alpha)
 
 [Install Docker for Desktop](https://www.docker.com/products/docker-desktop)
+
+## Questions:
+
+You can ask questions verbally or with this [Google Doc](https://docs.google.com/document/d/11gMZ-T7iA5XiRWPLYIqX7Gqv7RMb-NF9kzGYHrnOi04/edit?usp=sharing).
+Please append your question below the others in the document.
 
 ## Schedule
 
