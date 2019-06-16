@@ -73,3 +73,8 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 17:00 - 17:30 [Example: Running an HPC app on the E4S container](slides/E4S_ISC19.pdf) (Shende)
 
 17:30 - 18:00 Success Stories and Summary (Canon)
+
+
+
+<img src="images/ec2_1.png" width="250">
+<img src="images/ec2_2.png" width="250">
