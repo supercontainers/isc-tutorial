@@ -54,7 +54,7 @@ Please append your question below the others in the document.
 
 ## Schedule
 
-14:01 - 14:30 [Introduction to Containers in HPC](slides/isc19_intro_to_containers_ajy.pptx) (Younge)
+14:01 - 14:30 [Introduction to Containers in HPC](slides/isc19_intro_to_containers_ajy.pdf) (Younge)
 
 14:30 - 15:00 [How to build your first Docker container](/01-hands-on.md) (Canon)
 
@@ -66,6 +66,6 @@ Please append your question below the others in the document.
 
 16:30 - 17:00 [Running Singularity on a supercomputer and advanced features](/04-hands-on.md)(Arango)
 
-17:00 - 17:30 [Example: Running an HPC app on the E4S container](slides/E4S_PROTEAS_AHM_Mar19.pptx) (Shende)
+17:00 - 17:30 [Example: Running an HPC app on the E4S container](slides/E4S_ISC19.pdf) (Shende)
 
 17:30 - 18:00 Success Stories and Summary (Canon)
