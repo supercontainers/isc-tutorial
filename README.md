@@ -76,5 +76,5 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 
 
 
-<img src="images/ec2_1.png" width="250">
-<img src="images/ec2_2.png" width="250">
+<img src="images/ec2_1.png" width="400">
+<img src="images/ec2_2.png" width="400">
