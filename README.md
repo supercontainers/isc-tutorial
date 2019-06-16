@@ -39,6 +39,12 @@ This is a hands-on tutorial. Participants should bring a laptop and load or pre-
 
 This tutorial is supported by the Amazon AWS Machine Learning Research Awards. EC2 images and temporary login credentials will be distributed onsite at the tutorial.
 
+After the tutorial, you can boot our tutorial image yourself on Amazon EC2 to run through the tutorial again. We recommend you use your own EC2 key and change the password.
+
+US-West-Oregon: ami-015dd4732dbcdbf3f
+EU-Frankfurt:   ami-00a1a6ca3c570c48c
+
+
 ### Optional Prerequisites
 
 Users can also install Docker and Singularity prior to attending the tutorial session. Here, it may be beneficial to create a docker account in advance at https://cloud.docker.com/. This account will be needed to create images on docker cloud and dockerhub.
@@ -73,3 +79,8 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 17:00 - 17:30 [Example: Running an HPC app on the E4S container](slides/E4S_ISC19.pdf) (Shende)
 
 17:30 - 18:00 Success Stories and Summary (Canon)
+
+
+
+<img src="images/ec2_1.png" width="400">
+<img src="images/ec2_2.png" width="400">
