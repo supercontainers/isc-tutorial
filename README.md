@@ -52,6 +52,8 @@ Users can also install Docker and Singularity prior to attending the tutorial se
 You can ask questions verbally or with this [Google Doc](https://docs.google.com/document/d/11gMZ-T7iA5XiRWPLYIqX7Gqv7RMb-NF9kzGYHrnOi04/edit?usp=sharing).
 Please append your question below the others in the document.
 
+We have also created a Slack Team for this.  The invitation link is [here](https://join.slack.com/t/hpc-containers/shared_invite/enQtNjU1MTIyNTE3NDI2LTMwMzZiYjZmMjhlODcwMTViYmQ4ZTQxZmUwMzE1MTYxZWZiOGM0NTYyMjI2NjI2OWNkYzM2YjY3ZWI0OTY3NzY).
+
 ## Schedule
 
 14:01 - 14:30 [Introduction to Containers in HPC](slides/isc19_intro_to_containers_ajy.pdf) (Younge)
