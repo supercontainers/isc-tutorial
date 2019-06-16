@@ -36,7 +36,7 @@ lsb_release -a
 
 Once you are done exploring, exit out.
 ```bash
-exit
+$ exit
 exit
 ```
 
