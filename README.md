@@ -1,7 +1,7 @@
 
 # Getting Started with Containers on HPC
 
-View this on [GitHub Pages](https://ecpcontainers.github.io/isc19-tutorial/).
+View this on [GitHub Pages](https://supercontainers.github.io/isc19-tutorial/).
 
 ## ECP Supercontainers Tutorial Session
 
