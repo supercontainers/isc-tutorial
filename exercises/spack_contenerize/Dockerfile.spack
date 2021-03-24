@@ -1,0 +1,3 @@
+FROM spack/centos7:latest
+
+ENV PATH="/opt/spack/bin:${PATH}"
