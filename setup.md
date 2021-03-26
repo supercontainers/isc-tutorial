@@ -33,8 +33,8 @@ To run the examples yourself, you can download the materials with:
 
 ```bash
 cd ~
-git clone https://github.com/supercontainers/sc20-tutorial.git
-cd sc20-tutorial/exercises
+git clone https://github.com/supercontainers/isc-tutorial.git
+cd isc-tutorial/exercises
 ```
 
 

@@ -11,15 +11,13 @@ View this on [GitHub Pages](https://supercontainers.github.io/isc-tutorial/).
 
 Half-day Tutorial Session
 
-Venue: Supercomputing Conference 2020 (SC20')
+Venue: International Supercomputing Conference (ISC21)
 
-Date: Tuesday, 10 November 2020 2:30pm - 6:30pm (Eastern Standard Time)
+Date: TBD, 24 or 25 June 2021 2:00pm - 6:00pm (European Central Time)
 
-Location: Virtual (Atlanta, GA, USA)
+Location: Virtual
 
-Link: [Container Computing for HPC and Scientific Workflows @ SC20](https://sc20.supercomputing.org/presentation/?id=tut129&sess=sess271)
-
-Topic Area: Programming Models & Systems Software
+Link: [Getting Started with Containers in HPC @ ISC21](https://www.isc-hpc.com/)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
@@ -32,7 +30,7 @@ These will be provided the day of the tutorial.
 
 Container computing has revolutionized the way applications are developed and delivered. It offers opportunities that never existed before for significantly improving efficiency of scientific workflows and easily moving these workflows from the laptop to the supercomputer. Tools like Docker, Shifter, Singularity and Charliecloud enable a new paradigm for scientific and technical computing. However, to fully unlock its potential, users and administrators need to understand how to utilize these new approaches. This tutorial will introduce attendees to the basics of creating container images, explain best practices, and cover more advanced topics such as creating images to be run on HPC platforms using various container runtimes. The tutorial will also explain how research scientists can utilize container-based computing to accelerate their research and how these tools can boost the impact of their research by enabling better reproducibility and sharing of their scientific process without compromising security. 
 
-This is an updated version of the highly successful tutorial presented at SC16, SC17, SC18 and SC19.
+This is an updated version of the highly successful tutorial presented at SC16-20 and ISC19.
 
 ## Prerequisites
 
@@ -64,7 +62,7 @@ Please append your question below the others in the document.
 
 We have also created a Slack Team for this.  The invitation link is [here](https://join.slack.com/t/hpc-containers/shared_invite/enQtODI3NzY1NDU4OTk5LTUxOTgyOWJmYjIwOWI5YWU2MzBhZDI3Zjc1YmZmMjAxZjgzYzk4ZWEwNmFlNzlkOWI0MGNlZDNlMTBhYTBlOWY).
 
-## Schedule
+## Schedule (TBD)
 
 14:30 - 14:45 Introduction to containers in HPC (Shane)  
 Including defining jargon (containers, images, registries/repos,..)  

@@ -9,13 +9,13 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 <img src="{{ page.root }}/fig/pawsey_wide.jpeg" alt="Pawsey Logo" width="250">
 <img src="{{ page.root }}/fig/redhat.png" alt="RedHat Logo" width="250">
 
-ECP Supercontainers Tutorial Session @ Supercomputing Conference 2020 (SC20')
+ECP Supercontainers Tutorial Session @ International Supercomputing Conference 2021 (ISC21')
 
-Date: Tuesday, 10 November 2020 2:30pm - 6:30pm (Eastern Standard Time)
+Date: TBD
 
-Location: Virtual (Atlanta, GA, USA)
+Location: Virtual
 
-Link: [Container Computing for HPC and Scientific Workflows @ SC20](https://sc20.supercomputing.org/presentation/?id=tut129&sess=sess271)
+Link: [Container Computing for HPC and Scientific Workflows @ ISC21](https://www.isc-hpc.com/)
 
 
 > ## Prerequisites
