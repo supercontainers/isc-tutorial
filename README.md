@@ -64,23 +64,23 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 
 ## Schedule (TBD)
 
-14:30 - 14:45 Introduction to containers in HPC (Shane)  
+14:00 - 14:15 Introduction to containers in HPC (Shane)  
 Including defining jargon (containers, images, registries/repos,..)  
 
-14:45 - 15:25 Build and run your first container with Podman (Shane)  
+14:15 - 14:55 Build and run your first container with Podman (Shane)  
 Including also minimal pull and run examples, to define these concepts  
 
-15:25 - 16:00 Deploy containers on a supercomputer (Marco)  
+14:55 - 15:30 Deploy containers on a supercomputer (Marco)  
 
-16:00 - 16:30 High-performance containers (Marco)  
+15:30 - 16:00 High-performance containers (Marco)  
 
-16:30 - 17:00 BREAK
+16:00 - 16:30 BREAK
 
-17:00 - 17:35 Best practices (Shane)  
+16:30 - 17:05 Best practices (Shane)  
 
-17:35 - 18:05 E4S containers initiative (Sameer)  
+17:05 - 17:35 E4S containers initiative (Sameer)  
 
-18:05 - 18:25 Advanced container builds (Eduardo)  
+17:35 - 17:55 Advanced container builds (Eduardo)  
 
-18:25 - 18:30 Wrap-up and final Q&A  
+17:55 - 18:00 Wrap-up and final Q&A  
 
