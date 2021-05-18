@@ -9,13 +9,13 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 <img src="{{ page.root }}/fig/pawsey_wide.jpeg" alt="Pawsey Logo" width="250">
 <img src="{{ page.root }}/fig/redhat.png" alt="RedHat Logo" width="250">
 
-ECP Supercontainers Tutorial Session @ International Supercomputing Conference 2021 (ISC21')
+ECP Supercontainers Tutorial Session @ International Supercomputing Conference 2021 (ISC '21)
 
 Date: TBD
 
 Location: Virtual
 
-Link: [Container Computing for HPC and Scientific Workflows @ ISC21](https://www.isc-hpc.com/)
+Link: [Getting Started with Containers on HPC @ ISC21](https://www.isc-hpc.com/)
 
 
 > ## Prerequisites
