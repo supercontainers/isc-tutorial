@@ -1,8 +1,7 @@
 #!/bin/bash
 #SBATCH -N 1 -C haswell
 #SBATCH -q interactive
-#SBATCH --image ubuntu:latest
-#SBATCH --reservation sc19cont
+#SBATCH --image ubuntu:18.04
 
-srun -N 1 shifter /app/app.py
+srun -N 1 shifter cat /etc/os-release
 
