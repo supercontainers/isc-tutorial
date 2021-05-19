@@ -1,5 +1,5 @@
 
-# Using Containers to Accelerate HPC
+# Getting Started with Containers on HPC
 
 View this on [GitHub Pages](https://supercontainers.github.io/isc-tutorial/).
 
@@ -28,7 +28,7 @@ These will be provided the day of the tutorial.
 
 ## Abstract
 
-Container computing has revolutionized the way applications are developed and delivered. It offers opportunities that never existed before for significantly improving efficiency of scientific workflows and easily moving these workflows from the laptop to the supercomputer. Tools like Docker, Shifter, Singularity and Charliecloud enable a new paradigm for scientific and technical computing. However, to fully unlock its potential, users and administrators need to understand how to utilize these new approaches. This tutorial will introduce attendees to the basics of creating container images, explain best practices, and cover more advanced topics such as creating images to be run on HPC platforms using various container runtimes. The tutorial will also explain how research scientists can utilize container-based computing to accelerate their research and how these tools can boost the impact of their research by enabling better reproducibility and sharing of their scientific process without compromising security. 
+Container computing has revolutionized the way applications are developed and delivered. It offers opportunities that never existed before for significantly improving efficiency of scientific workflows and easily moving these workflows from the laptop to the supercomputer. Tools like Docker, Shifter, Singularity, Charliecloud and Podman enable a new paradigm for scientific and technical computing. However, to fully unlock its potential, users and administrators need to understand how to utilize these new approaches. This tutorial will introduce attendees to the basics of creating container images, explain best practices, and cover more advanced topics such as creating images to be run on HPC platforms using various container runtimes. The tutorial will also explain how research scientists can utilize container-based computing to accelerate their research and how these tools can boost the impact of their research by enabling better reproducibility and sharing of their scientific process without compromising security. 
 
 This is an updated version of the highly successful tutorial presented at SC16-20 and ISC19.
 
@@ -49,7 +49,7 @@ US-West-Oregon: ami-0fe12765123c6a840
 
 Users can also install Docker and Singularity prior to attending the tutorial session. Here, it may be beneficial to create a docker and sylabs (singularity) account in advance at https://cloud.docker.com/ and https://cloud.sylabs.io/ This accounts will be needed to create images on docker cloud/dockerhub and sylabs cloud.
 
-[Install Singularity on Linux](https://sylabs.io/guides/3.3/user-guide/)
+[Install Singularity on Linux](https://sylabs.io/guides/3.7/user-guide/)
 
 [Install Singualrity on Mac](https://repo.sylabs.io/desktop/) (Alpha)
 
@@ -64,39 +64,23 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 
 ## Schedule (TBD)
 
-14:30 - 14:45 Introduction to containers in HPC (Shane)  
+14:00 - 14:15 Introduction to containers in HPC (Shane)  
 Including defining jargon (containers, images, registries/repos,..)  
 
-14:45 - 15:25 Build and run your first Docker container (Shane)  
+14:15 - 14:55 Build and run your first container with Podman (Shane)  
 Including also minimal pull and run examples, to define these concepts  
 
-15:25 - 15:40 BREAK
+14:55 - 15:30 Deploy containers on a supercomputer (Marco)  
 
-15:40 - 16:15 Deploy containers on a supercomputer (Marco)  
+15:30 - 16:00 High-performance containers (Marco)  
 
-16:15 - 16:40 High-performance containers (Marco)  
+16:00 - 16:30 BREAK
 
-16:40 - 16:55 BREAK
+16:30 - 17:05 Best practices (Shane)  
 
-16:55 - 17:15 Best practices (Shane)  
-
-17:15 - 17:35 E4S containers initiative (Sameer)  
+17:05 - 17:35 E4S containers initiative (Sameer)  
 
 17:35 - 17:55 Advanced container builds (Eduardo)  
 
 17:55 - 18:00 Wrap-up and final Q&A  
-
-
-<!--
-13:30 – 13:45 [Introduction to Containers in HPC](slides/sc19_tutorial_intro.pdf) (Younge)  
-13:45 – 14:15 [How to build your first Docker container](/01-hands-on.md) (Canon)  
-14:15 – 14:45 [How to deploy a container on a supercomputer](/02-hands-on.md) (Canon)  
-14:45 – 15:00 [Best Practices](slides/sc19_tutorial_bestpract.pdf) (Canon)  
-15:00 – 15:30              - Break –  
-15:30 – 16:00 [Running an HPC app on the E4S container](slides/E4S_SC19.pdf) (Shende)  
-16:00 - 16:30 [How to build a Singularity container image](/03-hands-on.md) (Arango)  
-16:30 - 16:50 [Running Singularity on a supercomputer & adv features](/04-hands-on.md) (Arango)  
-16:50 - 17:00 [Success Stories & Summary](slides/sc19_tut_summary.pdf) (Canon)  
--->
-
 
