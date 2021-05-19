@@ -1,6 +1,7 @@
 // Hello World MPI app
 #include <mpi.h>
 #include <stdio.h>
+#include <unistd.h>
 
 int main(int argc, char** argv) {
     int size, rank;
