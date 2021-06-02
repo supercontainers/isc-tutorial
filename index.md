@@ -9,18 +9,21 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 <img src="{{ page.root }}/fig/pawsey_wide.jpeg" alt="Pawsey Logo" width="250">
 <img src="{{ page.root }}/fig/redhat.png" alt="RedHat Logo" width="250">
 
-ECP Supercontainers Tutorial Session @ International Supercomputing Conference 2021 (ISC '21)
 
-Date: TBD
+ECP Supercontainers Tutorial Session @ International Supercomputing Conference 2021 (ISC 2021)
+
+Date: 24 June 2021 2:00pm - 6:00pm, Central European Summer Time CEST (GMT+2)
 
 Location: Virtual
 
-Link: [Getting Started with Containers on HPC @ ISC21](https://www.isc-hpc.com/)
+Link: [ISC 2021 Schedule](https://www.isc-hpc.com/schedule.html)
+
+Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
 
 > ## Prerequisites
 > 
-> This is a hands-on tutorial. Participants should bring a laptop and load or pre-install a terminal and/or ssh client in advance to make best use of time during the tutorial.  
+> This is a hands-on tutorial.  Participants should bring a laptop and load or pre-install a terminal and/or ssh client in advance to make best use of time during the tutorial.  
 > 
 > See also the [Setup](./setup.html) page.
 {: .prereq}
