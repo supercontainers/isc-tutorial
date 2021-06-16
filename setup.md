@@ -30,8 +30,9 @@ US-West-Oregon: ami-0fe12765123c6a840
 ### NERSC Training Accounts (optional)
 
 In addition to the AWS instances, you can also try running some of the Shifter-based excercises on NERSC's Cori system, a Cray XC40 system.  To sign-up for a NERSC tutorial account, visit
-[https://iris.nersc.gov/train](https://iris.nersc.gov/train) and fill out the form.  The training code will be provided during the tutorial.  Please note, that due to security
+[https://iris.nersc.gov/train](https://iris.nersc.gov/train) and fill out the form.  The training code will be provided during the tutorial.  Please note that, due to security
 restrictions, access may be limited but all of the excercises can be done on the AWS instances.
+
 
 ### Materials repository
 
