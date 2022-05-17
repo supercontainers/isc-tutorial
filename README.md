@@ -12,13 +12,13 @@ View this on the [Tutorial Homepage](https://supercontainers.github.io/isc-tutor
 
 Half-day Tutorial Session
 
-Venue: International Supercomputing Conference (ISC 2021)
+Venue: International Supercomputing Conference (ISC 2022)
 
-Date: 24 June 2021 2:00pm - 6:00pm, Central European Summer Time CEST (GMT+2)
+Date: 29 May 2022 2:00pm - 6:00pm, Central European Summer Time CEST (GMT+2)
 
 Location: Virtual
 
-Link: [ISC 2021 Schedule](https://www.isc-hpc.com/schedule.html)
+Link: [ISC 2022 Schedule](https://www.isc-hpc.com/schedule.html)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
@@ -32,7 +32,7 @@ These will be provided the day of the tutorial.
 
 Container computing has revolutionized the way applications are developed and delivered.  It offers opportunities that never existed before for significantly improving efficiency of scientific workflows and easily moving these workflows from the laptop to the supercomputer.  Tools like Docker, Shifter, Singularity, Charliecloud and Podman enable a new paradigm for scientific and technical computing.  However, to fully unlock its potential, users and administrators need to understand how to utilize these new approaches.  This tutorial will introduce attendees to the basics of creating container images, explain best practices, and cover more advanced topics such as creating images to be run on HPC platforms using various container runtimes.  The tutorial will also explain how research scientists can utilize container-based computing to accelerate their research and how these tools can boost the impact of their research by enabling better reproducibility and sharing of their scientific process without compromising security. 
 
-This is an updated version of the highly successful tutorial presented at SC16-20 and ISC19.
+This is an updated version of the highly successful tutorial presented at SC16-21 and ISC19-21.
 
 
 ## Prerequisites
