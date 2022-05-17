@@ -72,12 +72,12 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 14:00 - 14:15 Introduction to containers in HPC (Shane)  
 Including defining jargon (containers, images, registries/repos,..)  
 
-14:15 - 14:55 Build and run your first container with Podman (Shane)  
-Including also minimal pull and run examples, to define these concepts  
+14:15 - 14:55 Build and run your first container (Eduardo)  
+Basic of containers and understanding the OCI Image Spec
 
-14:55 - 15:30 Deploy containers on a supercomputer (Marco)  
+14:55 - 15:30 Deploy containers on a supercomputer (Alexis)  
 
-15:30 - 16:00 High-performance containers (Marco)  
+15:30 - 16:00 High-performance containers (Alexis)  
 
 16:00 - 16:30 BREAK
 
