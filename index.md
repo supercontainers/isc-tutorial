@@ -10,13 +10,13 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 <img src="{{ page.root }}/fig/redhat.png" alt="RedHat Logo" width="250">
 
 
-ECP Supercontainers Tutorial Session @ International Supercomputing Conference 2021 (ISC 2021)
+ECP Supercontainers Tutorial Session @ International Supercomputing Conference 2022 (ISC 2022)
 
-Date: 24 June 2021 2:00pm - 6:00pm, Central European Summer Time CEST (GMT+2)
+Date: 29 May 2022 2:00pm - 6:00pm, Central European Summer Time CEST (GMT+2)
 
 Location: Virtual
 
-Link: [ISC 2021 Schedule](https://www.isc-hpc.com/schedule.html)
+Link: [ISC 2022 Schedule](https://www.isc-hpc.com/schedule.html)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
