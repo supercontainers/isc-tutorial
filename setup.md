@@ -42,7 +42,7 @@ To run the examples yourself, you can download the materials with:
 cd ~
 git clone https://github.com/supercontainers/isc-tutorial.git
 cd isc-tutorial
-git checkout isc21
+git checkout isc22
 cd exercises
 ```
 
