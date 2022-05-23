@@ -15,10 +15,10 @@ module load singularity
 ###---Python script containing the training procedure
 theScript=distributedMNIST.py
 
-###---Creating the directory that will act as a fake home
+###---Creating the directory that will act as a fake $HOME for containerised Python applications
 if ! [ -d "fake_home" ]; then
    mkdir fake_home
 fi
 
-###---Launching the distribute tensorflow case
+###---Launching the distributed tensorflow case
 srun singularity exec -e -B fake_home:$HOME --nv $theImage python $theScript 
