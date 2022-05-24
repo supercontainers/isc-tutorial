@@ -1,6 +1,3 @@
-Note: '/astro' is momentarily unavailable and currently is not auto bind mounted.
-If you require '/astro', please try running singularity with '-B /astro'
-Or using the *-with-astro version of this module.
 INFO:    Using cached SIF image
                       :-) GROMACS - gmx grompp, 2018.2 (-:
 
@@ -31,7 +28,7 @@ of the License, or (at your option) any later version.
 GROMACS:      gmx grompp, version 2018.2
 Executable:   /gromacs/bin.AVX2_256/gmx
 Data prefix:  /gromacs
-Working dir:  /group/pawsey0001/espinosa/ISC22preparation/isc-tutorial/exercises/gromacs_work
+Working dir:  /group/pawsey/espn/ISC22preparation/isc-tutorial/exercises/gromacs_work
 Command line:
   gmx grompp -f pme.mdp
 
@@ -90,7 +87,7 @@ of the License, or (at your option) any later version.
 GROMACS:      gmx mdrun, version 2018.2
 Executable:   /gromacs/bin.AVX2_256/gmx
 Data prefix:  /gromacs
-Working dir:  /group/pawsey0001/espinosa/ISC22preparation/isc-tutorial/exercises/gromacs_work
+Working dir:  /group/pawsey/espn/ISC22preparation/isc-tutorial/exercises/gromacs_work
 Command line:
   gmx mdrun -ntmpi 1 -nb gpu -pin on -v -noconfout -nsteps 5000 -s topol.tpr -ntomp 1
 
@@ -115,19 +112,19 @@ Please contact your admin to change application clocks.
 Overriding thread affinity set outside gmx mdrun
 starting mdrun 'Water'
 5000 steps,     10.0 ps.
-step  160: timed with pme grid 200 200 200, coulomb cutoff 1.000: 10562.8 M-cycles
-step  320: timed with pme grid 168 168 168, coulomb cutoff 1.187: 11393.7 M-cycles
-step  480: timed with pme grid 144 144 144, coulomb cutoff 1.384: 12169.1 M-cycles
-step  640: timed with pme grid 160 160 160, coulomb cutoff 1.246: 11499.3 M-cycles
-step  800: timed with pme grid 168 168 168, coulomb cutoff 1.187: 11166.8 M-cycles
-step  960: timed with pme grid 192 192 192, coulomb cutoff 1.038: 10757.7 M-cycles
-step 1120: timed with pme grid 200 200 200, coulomb cutoff 1.000: 10612.9 M-cycles
-step 1280: timed with pme grid 160 160 160, coulomb cutoff 1.246: 11526.6 M-cycles
-step 1440: timed with pme grid 168 168 168, coulomb cutoff 1.187: 11242.2 M-cycles
-step 1600: timed with pme grid 192 192 192, coulomb cutoff 1.038: 10593.7 M-cycles
-step 1760: timed with pme grid 200 200 200, coulomb cutoff 1.000: 10632.4 M-cycles
-              optimal pme grid 200 200 200, coulomb cutoff 1.000
-step 1900, remaining wall clock time:   182 s          step 2000, remaining wall clock time:   176 s          step 2100, remaining wall clock time:   169 s          step 2200, remaining wall clock time:   163 s          step 2300, remaining wall clock time:   156 s          step 2400, remaining wall clock time:   150 s          step 2500, remaining wall clock time:   144 s          step 2600, remaining wall clock time:   138 s          step 2700, remaining wall clock time:   131 s          step 2800, remaining wall clock time:   126 s          step 2900, remaining wall clock time:   119 s          step 3000, remaining wall clock time:   113 s          step 3100, remaining wall clock time:   107 s          step 3200, remaining wall clock time:   102 s          step 3300, remaining wall clock time:    96 s          step 3400, remaining wall clock time:    90 s          step 3500, remaining wall clock time:    84 s          step 3600, remaining wall clock time:    79 s          step 3700, remaining wall clock time:    73 s          step 3800, remaining wall clock time:    67 s          step 3900, remaining wall clock time:    61 s          step 4000, remaining wall clock time:    56 s          step 4100, remaining wall clock time:    50 s          step 4200, remaining wall clock time:    44 s          step 4300, remaining wall clock time:    39 s          step 4400, remaining wall clock time:    33 s          step 4500, remaining wall clock time:    27 s          step 4600, remaining wall clock time:    22 s          step 4700, remaining wall clock time:    16 s          step 4800, remaining wall clock time:    11 s          step 4900, remaining wall clock time:     5 s          step 5000, remaining wall clock time:     0 s          
+step  160: timed with pme grid 200 200 200, coulomb cutoff 1.000: 10562.8 M-cycles
+step  320: timed with pme grid 168 168 168, coulomb cutoff 1.187: 11393.7 M-cycles
+step  480: timed with pme grid 144 144 144, coulomb cutoff 1.384: 12169.1 M-cycles
+step  640: timed with pme grid 160 160 160, coulomb cutoff 1.246: 11499.3 M-cycles
+step  800: timed with pme grid 168 168 168, coulomb cutoff 1.187: 11166.8 M-cycles
+step  960: timed with pme grid 192 192 192, coulomb cutoff 1.038: 10757.7 M-cycles
+step 1120: timed with pme grid 200 200 200, coulomb cutoff 1.000: 10612.9 M-cycles
+step 1280: timed with pme grid 160 160 160, coulomb cutoff 1.246: 11526.6 M-cycles
+step 1440: timed with pme grid 168 168 168, coulomb cutoff 1.187: 11242.2 M-cycles
+step 1600: timed with pme grid 192 192 192, coulomb cutoff 1.038: 10593.7 M-cycles
+step 1760: timed with pme grid 200 200 200, coulomb cutoff 1.000: 10632.4 M-cycles
+              optimal pme grid 200 200 200, coulomb cutoff 1.000
+step 5000, remaining wall clock time:     0 s          
 NOTE: 12 % of the run time was spent in pair search,
       you might want to increase nstlist (this has no effect on accuracy)
 
@@ -137,4 +134,3 @@ NOTE: 12 % of the run time was spent in pair search,
 Performance:        3.107        7.724
 
 GROMACS reminds you: "The time for theory is over" (J. Hajdu)
-
