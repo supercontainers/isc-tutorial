@@ -14,9 +14,9 @@ ECP Supercontainers Tutorial Session @ International Supercomputing Conference 2
 
 Date: 29 May 2022 2:00pm - 6:00pm, Central European Summer Time CEST (GMT+2)
 
-Location: Virtual
+Location: Hamburg, Germany
 
-Link: [ISC 2022 Schedule](https://www.isc-hpc.com/schedule.html)
+Link: [ISC Schedule](https://app.swapcard.com/widget/event/isc-high-performance-2022/planning/UGxhbm5pbmdfODYxMTU3))
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
