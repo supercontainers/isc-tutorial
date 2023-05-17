@@ -10,13 +10,13 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 <img src="{{ page.root }}/fig/redhat.png" alt="RedHat Logo" width="250">
 
 
-ECP Supercontainers Tutorial Session @ International Supercomputing Conference 2022 (ISC 2022)
+ECP Supercontainers Tutorial Session @ International Supercomputing Conference 2023 (ISC 2023)
 
-Date: 29 May 2022 2:00pm - 6:00pm, Central European Summer Time CEST (GMT+2)
+Date: 21 May 2023 2:00pm - 6:00pm, Central European Summer Time CEST (GMT+2)
 
 Location: Hamburg, Germany
 
-Link: [ISC Schedule](https://app.swapcard.com/widget/event/isc-high-performance-2022/planning/UGxhbm5pbmdfODYxMTU3)
+Link: [ISC Schedule](https://app.swapcard.com/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgwMA==)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
@@ -34,6 +34,6 @@ Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Sof
 > You can ask questions verbally or with this [Google Doc](https://docs.google.com/document/d/1zrWRGeDEbokQq03hAHxZzXpNzBSp4YSKJhHiNtjSe1Y/edit?usp=sharing).
 > Please append your question below the others in the document.
 > 
-> We have also created a Slack Team for this.  The invitation link is [here](https://join.slack.com/t/hpc-containers/shared_invite/enQtODI3NzY1NDU4OTk5LTUxOTgyOWJmYjIwOWI5YWU2MzBhZDI3Zjc1YmZmMjAxZjgzYzk4ZWEwNmFlNzlkOWI0MGNlZDNlMTBhYTBlOWY).
+> We have also created a Slack Team for this.  The invitation link is in the Google Doc.
 {: .callout}
 
