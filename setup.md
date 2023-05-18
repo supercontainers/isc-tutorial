@@ -24,7 +24,7 @@ This tutorial is supported by the Amazon AWS Machine Learning Research Awards. E
 
 After the tutorial, you can boot our tutorial image yourself on Amazon EC2 to run through the tutorial again. We recommend you use your own EC2 key and change the password.
 
-US-West-Oregon: ami-0fe12765123c6a840
+US-West-Oregon: ami-08ab931791269deeb
 
 
 ### NERSC Training Accounts (optional)
