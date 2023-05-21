@@ -7,7 +7,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 
 <img src="{{ page.root }}/fig/ecp.jpg" alt="ECP Logo" width="250">
 <img src="{{ page.root }}/fig/pawsey_wide.jpeg" alt="Pawsey Logo" width="250">
-<img src="{{ page.root }}/fig/redhat.png" alt="RedHat Logo" width="250">
+<img src="{{ page.root }}/fig/nvidia.png" alt="NVIDIA Logo" width="250">
 
 
 ECP Supercontainers Tutorial Session @ International Supercomputing Conference 2023 (ISC 2023)
