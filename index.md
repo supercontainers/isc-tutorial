@@ -16,7 +16,7 @@ Date: 21 May 2023 2:00pm - 6:00pm, Central European Summer Time CEST (GMT+2)
 
 Location: Hamburg, Germany
 
-Link: [ISC Schedule](https://app.swapcard.com/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgwMA==)
+Links: [ISC Schedule](https://app.swapcard.com/event/isc-high-performance-2023/planning/UGxhbm5pbmdfMTIyMDgwMA==) ; [Slide Materials](https://drive.google.com/file/d/10XlWXyGL4BKReNIYSw_9aiSlAGClCAK3/view?usp=share_link)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
